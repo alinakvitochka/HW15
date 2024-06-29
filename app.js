@@ -80,7 +80,6 @@ class ListItem {
     }
 }
 
-// Приклад використання
 const toDo = new ToDoList();
 
 toDo.addItem("milk");
